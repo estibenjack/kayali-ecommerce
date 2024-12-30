@@ -1,0 +1,34 @@
+.hero-section {
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.hero-text {
+    text-align: center;
+    z-index: 2;
+    font-style: italic;
+    font-size: 2rem;
+    position: relative;
+    top: 8%;
+}
+
+.img-div {
+    position: relative;
+    height: 100%;
+    width: 660px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-img {
+    object-position: center;
+}
