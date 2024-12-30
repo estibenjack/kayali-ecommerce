@@ -1,0 +1,22 @@
+.header-menu {
+    box-shadow: 0 2px 4px 0 rgba(254, 7, 110, 0.2);
+    padding: 0px 10px 16px;
+}
+
+.header-menu ul {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.header-menu li {
+    border: 1px solid #e83e8c;
+    list-style: none;
+    padding: 6px 12px;
+    border-radius: 25px;
+}
+
+.header-menu li:hover {
+    background-color: #e83e8c;
+    color: white;
+}
