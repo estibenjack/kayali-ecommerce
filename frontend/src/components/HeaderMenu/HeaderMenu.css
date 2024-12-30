@@ -1,12 +1,12 @@
 .header-menu {
-    box-shadow: 0 2px 4px 0 rgba(254, 7, 110, 0.2);
-    padding: 0px 10px 16px;
+    box-shadow: 0 2px 4px 0 rgba(108, 108, 108, 0.2);
 }
 
 .header-menu ul {
     display: flex;
     justify-content: center;
     gap: 20px;
+    padding: 10px 8px;
 }
 
 .header-menu li {

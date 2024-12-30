@@ -1,7 +1,7 @@
 .banner {
     margin: 0;
     padding: 0;
-    width: 100%;
+    width: 100vw;
     background-color: #e83e8c;
     /*  background: linear-gradient(90deg, #ff007f, #ff66b2, #ff33a8, #ff99cc, #d72692); */
     background: linear-gradient(90deg, #ff007f, #ff66b2, #ff33a8, #ff99cc, #ff007f);
@@ -11,6 +11,6 @@
     color: white;
     font-size: 1rem;
     font-weight: bold;
-    padding: 8px;
+    padding: 8px 0px;
     letter-spacing: 0.05rem;
 }
